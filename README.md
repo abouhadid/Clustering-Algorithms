@@ -1,6 +1,10 @@
 # Comparing Clustering Algorithms: A Comprehensive Analysis
 
 ----------------------------------------------
+![Clustering Results](clustering_results.png)
+
+
+---------------------------------------------------
 
 ## Introduction
 
@@ -32,4 +36,4 @@ The main objective of this notebook is to compare the effectiveness and characte
 
 By comparing these clustering algorithms, we aim to provide insights into their behavior and applicability across different scenarios. Understanding these algorithms can help in selecting the most suitable clustering technique for specific datasets and problem domains.
 
-![Clustering Results](clustering_results.png)
+
