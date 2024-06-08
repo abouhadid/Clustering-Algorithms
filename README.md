@@ -29,10 +29,10 @@ The main objective of this notebook is to compare the effectiveness and characte
 - We evaluate the clustering results based on their computational time and the quality of clusters formed.
 - Visualizations are provided to illustrate the clustering output for each algorithm.
 
-![Clustering Results](clustering_results.png)
 
 ## Conclusion
 
 By comparing these clustering algorithms, we aim to provide insights into their behavior and applicability across different scenarios. Understanding these algorithms can help in selecting the most suitable clustering technique for specific datasets and problem domains.
 
+![Clustering Results](clustering_results.png)
 
